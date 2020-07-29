@@ -1,3 +1,6 @@
+#Code belongs to Daniel Shiffman
+#@CodingTrain on YouTube
+
 function Star() {
   this.x = random(-width, width);
   this.y = random(-height, height);
